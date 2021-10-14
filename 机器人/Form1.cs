@@ -29,11 +29,12 @@ namespace 机器人
 
             Color c2 = Color.FromArgb(161, 102, 33);//眼睛
             Brush b2 = new SolidBrush(c2);
-            Color c = Color.White;
-            Brush b = new SolidBrush(c);
+            
 
             Color c3 = Color.FromArgb(172, 94, 21);//嘴
             Brush b3 = new SolidBrush(c3);
+            Color c = Color.FromArgb(249,246,248);
+            Brush b = new SolidBrush(c);
 
             Color c4 = Color.FromArgb(144, 42, 1);//鼻子
             Brush b4 = new SolidBrush(c4);
